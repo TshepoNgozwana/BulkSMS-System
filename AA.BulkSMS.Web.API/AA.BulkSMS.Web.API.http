@@ -1,0 +1,6 @@
+@AA.BulkSMS.Web.API_HostAddress = http://localhost:5150
+
+GET {{AA.BulkSMS.Web.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
